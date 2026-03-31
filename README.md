@@ -5,16 +5,8 @@ I fix ANY code error — fast.
 If your app is crashing, your build is failing, your deployment is broken, or your logs make no sense, I can diagnose for you.
 
 ### ✔ What I Fix
-- Runtime errors  
-- Build failures  
-- Crashes and exceptions  
-- Dependency conflicts  
-- CI/CD failures  
-- Docker issues  
-- Environment problems  
-- Async bugs  
-- Race conditions  
-- Anything with logs
+
+- literally anything code wise.
 
 ### 💵 Pricing
 **$100USD flat per issue**  
