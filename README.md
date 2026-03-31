@@ -17,17 +17,20 @@ If your app is crashing, your build is failing, your deployment is broken, or yo
 - Anything with logs
 
 ### 💵 Pricing
-**$100 flat per issue**  
-Guaranteed diagnosis. Guaranteed fix.
+**$100USD flat per issue**  
+Payments are made in USDC/ETH/SOL.
+Payements are to be made Upfront.
+Guaranteed diagnosis in record time. You will not have to wait long.
 
 ### 📩 How to Get Started
 1. Open an Issue in this repo  
-2. Attach your logs, error message, or failing code snippet  
-3. I’ll confirm the problem and begin the fix  
-4. You receive a patch + explanation
+2. Attach your logs, error message, or failing code snippet
+3. Attach your email for contact and invoice.
+4. I’ll confirm the problem and I will return an ETH address.  
+5. You receive a full diagnostics back on email.
 
 ### ⚡ Turnaround Time
-Most issues are fixed within **1–2 hours** upon **approval**.
+Most issues are fixed within **30 minutes** of **approval**.
 
 ---
 
