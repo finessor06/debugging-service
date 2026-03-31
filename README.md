@@ -2,7 +2,7 @@
 
 I fix ANY code error — fast.
 
-If your app is crashing, your build is failing, your deployment is broken, or your logs make no sense, I can diagnose and fix it.
+If your app is crashing, your build is failing, your deployment is broken, or your logs make no sense, I can diagnose for you.
 
 ### ✔ What I Fix
 - Runtime errors  
