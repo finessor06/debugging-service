@@ -25,7 +25,9 @@ The module resolver gives up and throws the error you’re seeing
 In other words:
 Your code is using a shortcut that the build system doesn’t understand.
 This is why it works on some machines (like macOS) but fails instantly in CI or production.
+
 Root Cause
+
 The alias @/ is missing from your config.
 Or the file components/Navbar doesn’t exist at the expected path.
 Fix
@@ -45,6 +47,7 @@ Ensure the file actually exists at:
 Code
 /components/Navbar.(js|tsx)
 Clear .next cache
+
 Rebuild
 Once the alias is defined, the resolver knows exactly where to look — and the error disappears.
 Outcome
