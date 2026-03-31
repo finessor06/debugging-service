@@ -1,20 +1,20 @@
 #  SRE-Level Debugging Service
 
-I fix ANY code error — fast.
+I diagnose ANY code error — fast.
 
 If your app is crashing, your build is failing, your deployment is broken, or your logs make no sense, I can diagnose for you.
 
-### - What I Fix
+### What I Diagnose:
+**literally anything code wise.**
 
-- literally anything code wise.
+### Pricing:
 
-### - Pricing
 **$100USD flat per issue**  
 Payments are made in USDC/ETH/SOL.
 Payements are to be made Upfront.
 Guaranteed diagnosis in record time. You will not have to wait long.
 
-### - How to Get Started
+### How to Get Started
 1. Open an Issue in this repo  
 2. Attach your logs, error message, or failing code snippet
 3. Attach your email for contact and invoice.
