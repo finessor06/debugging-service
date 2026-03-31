@@ -3,7 +3,7 @@ If your app is crashing, your build is failing, your deployment is broken, or yo
 
 ### What I Can Diagnose:
 
-**literally anything code wise** (for the most part).
+**Literally anything code wise** (for the most part).
 
 ### What I Charge:
 
@@ -17,7 +17,7 @@ Payments are made in ETH & are charged Upfront.
 2. Attach your logs, error message, or failing code snippet.
 3. Attach your email for contact and invoice.
 4. I will diagnose the error entirely, forward to you a clue on what the issue is and provide an ETH address for payment.
-5. Once funds are recieved, I will return back to you the full Diagnostic.
+5. Once funds are recieved, I will return back to you the full diagnostic.
    
 ### 📩 Turnaround Time:
 
