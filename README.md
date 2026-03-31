@@ -31,4 +31,4 @@ Most issues are fixed within **1–2 hours** upon **approval**.
 
 ---
 
-If you're stuck, I can help.
+Feel free to reach out!
