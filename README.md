@@ -27,7 +27,7 @@ Guaranteed diagnosis. Guaranteed fix.
 4. You receive a patch + explanation
 
 ### ⚡ Turnaround Time
-Most issues are fixed within **1–2 hours**.
+Most issues are fixed within **1–2 hours** upon **approval**.
 
 ---
 
