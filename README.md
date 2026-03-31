@@ -17,7 +17,7 @@ Payments are made in ETH & are charged upon arrival.
 2. Attach your logs, error message, or failing code snippet.
 3. Attach your email for contact and invoice.
 4. I will diagnose the error entirely, forward to you a clue on what the issue is and provide an ETH address for payment.
-5. Once funds are recieved, I will return back to you the full diagnostic.
+5. Once funds are recieved, I will return back to you the full diagnosis.
    
 ### 📩 Turnaround Time:
 
