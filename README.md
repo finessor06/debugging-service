@@ -9,7 +9,7 @@ If your app is crashing, your build is failing, your deployment is broken, or yo
 
 **$100USD flat per issue**  
 
-Payments are made in ETH & are charged Upfront.
+Payments are made in ETH & are charged upon arrival.
 
 ### How to Get Started:
 
