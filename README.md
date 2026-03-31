@@ -21,7 +21,7 @@ Payments are made in ETH & are charged upon arrival.
    
 ### 📩 Turnaround Time:
 
-Most issues are diagnosed within **45 minutes** of **approval**.
+Most issues are diagnosed within **1 business day**.
 
 ---
 
